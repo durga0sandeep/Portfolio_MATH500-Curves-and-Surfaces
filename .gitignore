@@ -1,0 +1,95 @@
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==============================
+# IDE and editor files
+# ==============================
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# ==============================
+# C++ / Visual Studio builds
+# ==============================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+build/
+cmake-build-*/
+
+# Compiled files
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# ==============================
+# JUCE generated files
+# ==============================
+JuceLibraryCode/
+JuceLibraryCode_Build/
+Builds/*/build/
+
+# ==============================
+# Unity generated files
+# ==============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Bb]uild/
+[Bb]uilds/
+
+# Unity generated solution and project files
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.pidb
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+Assets/TextMesh Pro/Examples & Extras/
+Assets/TextMesh Pro/Resources/Fonts & Materials/
+
+
+# Unity crash reports
+sysinfo.txt
+
+# ==============================
+# Temporary files
+# ==============================
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
