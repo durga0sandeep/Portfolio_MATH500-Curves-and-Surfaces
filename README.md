@@ -42,6 +42,7 @@ Extended a curve-generation project into three-dimensional space, enabling users
 <img width="950" height="661" alt="P8" src="https://github.com/user-attachments/assets/ea1ca5bc-014b-4abf-815b-2dc08451947f" />
 
 
+[![Watch the video](https://youtube.com)](https://youtu.be/n7m9ZSCruH8)
 
 
 
